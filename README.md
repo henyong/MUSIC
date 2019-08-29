@@ -26,5 +26,5 @@
     * [伴奏](rt_exam-tour.mp3)
     * [完整](exam-tour.mp3)
   * **放荡年华**
-    * [伴奏](rt_crazytime.mp3)
-    * [完整](crazytime.mp3)
+    * [伴奏](rt_free.mp3)
+    * [完整](free.mp3)
