@@ -5,10 +5,11 @@
 * ***重&新***
   * [Wakeup (Remix)](wakeup.mp3)
   * [La Marseillaise (Remix)](pon.mp3)
+  * [La Marseillaise](peng.mp3)
   * [Bad Rhythm](badrhythm.mp3)
   * ~~[HandPhone]~~(handphone.mp3)
   * [RockLove](rocklove.mp3)
-  * [ZCH](zch.mp3)
+  * [ZCH](ZCH.mp3)
   * [DuringStudy](ds.mp3)
   * [Delta-T](deltaT.mp3)
 
