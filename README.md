@@ -6,7 +6,11 @@
   * [Wakeup (Remix)](wakeup.mp3)
   * [La Marseillaise (Remix)](pon.mp3)
   * [Bad Rhythm](badrhythm.mp3)
-  * [HandPhone](handphone.mp3)
+  * ~~[HandPhone]~~(handphone.mp3)
+  * [RockLove](rocklove.mp3)
+  * [ZCH](zch.mp3)
+  * [DuringStudy](ds.mp3)
+  * [Delta-T](deltaT.mp3)
 
 * ***课余***
   * **城市南北**
